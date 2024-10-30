@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReelBlocker2</string>
+    <string name="accessibility_service_description">Blocks Instagram reels and redirects to home screen.</string>
+    <string name="click_below_to_block_the_instagram_reels">Click below to Block the Instagram Reels</string>
+</resources>
